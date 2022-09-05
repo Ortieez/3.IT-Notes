@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d616e25a1d2c023b",
+        "id": "82757d7fa88630f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PGR/2D Grafika a Formáty.md",
+            "file": "KYB/Úvod.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PGR/2D Grafika a Formáty.md",
+                "file": "KYB/Úvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PGR/2D Grafika a Formáty.md",
+                "file": "KYB/Úvod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PGR/2D Grafika a Formáty.md"
+                "file": "KYB/Úvod.md"
               }
             }
           },
@@ -144,10 +144,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "active": "4f2dbc4d0357bcdd",
   "lastOpenFiles": [
+    "PGR/2D Grafika a Formáty.md",
     "sd.md",
     "ZSV/Advokacie.md",
     "README.md"

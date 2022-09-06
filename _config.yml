@@ -2,7 +2,7 @@ lsi: false
 safe: true
 source: ["./"]
 remote_theme: just-the-docs/just-the-docs
-incremental: false
+incremental: true
 timezone: Europe/Prague
 highlighter: rouge
 color_scheme: dark

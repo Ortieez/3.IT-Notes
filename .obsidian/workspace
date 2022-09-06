@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PRX/Úvod do Počítačovích sítí na Praxích.md",
+            "file": "PGR/Grafika a Formáty.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PRX/Úvod do Počítačovích sítí na Praxích.md",
+                "file": "PGR/Grafika a Formáty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PRX/Úvod do Počítačovích sítí na Praxích.md",
+                "file": "PGR/Grafika a Formáty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PRX/Úvod do Počítačovích sítí na Praxích.md"
+                "file": "PGR/Grafika a Formáty.md"
               }
             }
           },
@@ -148,10 +148,11 @@
   },
   "active": "82757d7fa88630f9",
   "lastOpenFiles": [
+    "PRX/Úvod do Počítačovích sítí na Praxích.md",
     "README.md",
     "ČJ/Opakování z 1.-2. Ročníku.md",
     "ČJ/Administrativní Styl.md",
-    "PGR/2D Grafika a Formáty.md",
+    "PGR/Grafika a Formáty.md",
     "KYB/Úvod.md",
     "sd.md",
     "ZSV/Advokacie.md"

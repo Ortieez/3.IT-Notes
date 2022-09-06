@@ -5,6 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 incremental: false
 timezone: Europe/Prague
 highlighter: rouge
+show_dir_listing: true
 gist:
   noscript: false
 kramdown:

@@ -1,7 +1,8 @@
 lsi: false
 safe: true
 source: ["./"]
-incremental: false
+remote_theme: just-the-docs/just-the-docs
+incremental: true
 highlighter: rouge
 gist:
   noscript: false

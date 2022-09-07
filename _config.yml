@@ -1,3 +1,4 @@
+permalink: /:collection/:year-:month-:day-:title:output_ext
 lsi: false
 safe: true
 source: ["./"]

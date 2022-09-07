@@ -1,4 +1,3 @@
-permalink: /:collection/:year-:month-:day-:title:output_ext
 lsi: false
 safe: true
 source: ["./"]
@@ -15,3 +14,10 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+defaults:
+  scope:
+    path: ""
+    type: "pages"
+  values:
+    permalink: "/:path/:basename/"

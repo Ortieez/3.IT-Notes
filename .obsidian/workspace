@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ČJ/Číslovky.md",
+            "file": "KYB/Úvod.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ČJ/Číslovky.md",
+                "file": "KYB/Úvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ČJ/Číslovky.md",
+                "file": "KYB/Úvod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ČJ/Číslovky.md"
+                "file": "KYB/Úvod.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "6c76f2de0d505819",
   "lastOpenFiles": [
+    "KYB/Kybernetika.md",
+    "KYB/Úvod.md",
+    "ČJ/Číslovky.md",
+    "ČJ/Český Jazyk.md",
     "ČJ/Částice.md",
     "ČJ/Zájmena.md",
     "ČJ/Větné vztahy.md",
     "ČJ/Význam předpon a přípon.md",
     "ČJ/Opakování z 1.-2. Ročníku.md",
-    "ČJ/Administrativní Styl.md",
-    "ČJ/Český Jazyk.md",
-    "ČJ/Typy Projevů.md",
-    "ČJ/Tvarotvorný Základ.md",
-    "ČJ/Tvarosloví (Morfologie).md"
+    "ČJ/Administrativní Styl.md"
   ]
 }

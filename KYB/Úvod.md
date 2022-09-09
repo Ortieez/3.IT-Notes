@@ -1,3 +1,7 @@
+---
+parent: Kybernetika
+nav_order: 1
+---
 # Úvod do kybernetiky
 - Společně s Mechatronikou
 - Praktická část 

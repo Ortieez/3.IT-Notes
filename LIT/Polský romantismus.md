@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Polský romantismus
 - Polsko rozděleno mezi tři státy
 - romantismus splývá s osudem národa v jeho pohnutých chvílích 

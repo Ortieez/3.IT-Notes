@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Povídky Boženy Němcové
 
 - Pan Učitel

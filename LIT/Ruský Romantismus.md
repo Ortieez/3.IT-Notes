@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Ruský Romantismus
 - Charakteristika tehdejšího Ruska:
 	- zaostalá, zemědělská země

@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 Souvisí s [[Občanské právo, vlastnictví, dědictví]]
 
 # Vlastnické Právo

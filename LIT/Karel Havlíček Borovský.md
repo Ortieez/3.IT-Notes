@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Karel Havlíček Borovský
 *(1821-1856)*
 

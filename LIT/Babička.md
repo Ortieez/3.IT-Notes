@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Babička
 - podtitul Obrazy z venkovského života
 - pohodové a nekonfliktní dílo

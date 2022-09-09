@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Notářství
 - významné postavení v rámci ochrany práv
 - oblast soukromého práva 

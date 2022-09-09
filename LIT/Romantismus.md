@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Romantismus
 - *1. polovina 19. století*
 - pád nebo přetvoření feudalismu (osvícenství)

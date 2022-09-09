@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Spravedlnost
 
 - Jeden ze základních pojmů pro dobré uspořádání lidských vztahů

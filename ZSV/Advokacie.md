@@ -1,3 +1,8 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
+
 # Advokacie
 ## Advokát
 - soukromá osoba

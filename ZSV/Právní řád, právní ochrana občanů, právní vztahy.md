@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Právní řád, právní ochrana občanů, právní vztahy
 
 ### Právní řád

@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Právní Skutečnost
 - objektivní - nezávisí na lidské vůli (př. plynutí času)
 - subjektivní - závisí na lidské vůli

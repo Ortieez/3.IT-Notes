@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Francouzský romantismus
 ### Viktor Hugo (1802-1885)
 - **Chrám Matky boží v Paříži** - román, hlavní hrdina Quasimodo, nešťastná láska k cikánce Esmeraldě, nenávist Quasimoda proti Frolovi, Frolo chce Esmeraldu znásilnit, Esmeralda se zabije, Quasimodo zabije Frola a poté i sám sebe 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KYB/Úvod.md",
+            "file": "ZSV/ratifikace.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KYB/Úvod.md",
+                "file": "ZSV/ratifikace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KYB/Úvod.md",
+                "file": "ZSV/ratifikace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KYB/Úvod.md"
+                "file": "ZSV/ratifikace.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "6c76f2de0d505819",
   "lastOpenFiles": [
-    "KYB/Kybernetika.md",
-    "KYB/Úvod.md",
-    "ČJ/Číslovky.md",
-    "ČJ/Český Jazyk.md",
-    "ČJ/Částice.md",
-    "ČJ/Zájmena.md",
-    "ČJ/Větné vztahy.md",
-    "ČJ/Význam předpon a přípon.md",
-    "ČJ/Opakování z 1.-2. Ročníku.md",
-    "ČJ/Administrativní Styl.md"
+    "ZSV/Základy Společenských Věd.md",
+    "ZSV/aplikace právního předpisu.md",
+    "ZSV/Zákon.md",
+    "ZSV/Vydávání právních předpisů v ČR.md",
+    "ZSV/Vlastnické Právo.md",
+    "ZSV/Stát.md",
+    "ZSV/Spravedlnost.md",
+    "ZSV/Soudy.md",
+    "ZSV/Rodinné Právo.md",
+    "ZSV/Represivní orgány.md"
   ]
 }

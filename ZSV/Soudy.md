@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Soudy 
 - chrání dodržování práva 
 - zřízený státem

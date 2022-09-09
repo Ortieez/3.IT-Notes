@@ -1,3 +1,7 @@
+---
+parent: Mechatronika
+nav_order: 1
+---
 # PLC Systémy
 - Programovatelný logický automat
 - automatické ovládání aplikací a zařízení

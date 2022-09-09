@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Český Realismus
 - 2. polovina 19. století
 - umělecký směr, který reálně popisuje skutečnost

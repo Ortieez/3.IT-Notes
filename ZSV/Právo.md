@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Právo
 
 - soubor pravidel, podle kterých se organizuje a řídí lidské spolužití

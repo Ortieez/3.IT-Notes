@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Represivní orgány
 ## Definice základních pojmů
 - represe = ochrana proti protiprávnímu jednání

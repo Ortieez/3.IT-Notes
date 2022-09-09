@@ -1,3 +1,8 @@
+---
+parent: Počítačová Grafika
+nav_order: 1
+---
+# Grafika a formáty
 - 72 DPI - Kvůli ušetření místa na disku a převážne pro web
 - 300 DPI - Pro větší tisk, projektory, atd...
 

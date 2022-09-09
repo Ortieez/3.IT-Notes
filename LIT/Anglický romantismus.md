@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Anglický romantismus
 ## George Gordon Byron (1788-1824)
 - básník

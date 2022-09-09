@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Vydávání právních předpisů v ČR
 
 - **orgán zákonodárné moci**

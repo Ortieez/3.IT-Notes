@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Slavjanofilie a Rusofilie
 
 - Přehnaná láska a obdiv ke všemu slovanskému a ruskému

@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Jan Kollar
 
 *(1793-1852)*

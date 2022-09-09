@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Obyvatelstvo
 
 - Stát má občany - zákon č.40/1993 (č.186/2013) Sb., o nabývání a pozbývání státního občanství České republiky

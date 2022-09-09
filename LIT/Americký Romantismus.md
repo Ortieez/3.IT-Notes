@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Americký Romantismus
 ## Edgar Allan Poe (1809-1849)
 založil detektivku: *Ukradený dopis, Zlatý skarabeus*

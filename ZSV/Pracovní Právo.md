@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Pracovní Právo
 - soubor právních norem
 - upravují vztahy, vznikající při výkonu práce za úplatu, tj. práce pro obživu

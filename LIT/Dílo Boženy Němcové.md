@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Dílo Boženy němcové
 - Pohádky:
 	- Lidová slovesnost (Sedmero krkavců, Pyšná princezna, Princezna se zlatou hvězdou na čele, Sůl nad zlato)

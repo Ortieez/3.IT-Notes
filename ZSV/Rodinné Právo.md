@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Rodinné Právo
 - odvětví soukromoprávní oblasti
 - stěžejním pramenem občanský zákoník (2. část)

@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Novalis
 *(1772-1801)*
 - vlastní jméno Friedrich von Hardenberg

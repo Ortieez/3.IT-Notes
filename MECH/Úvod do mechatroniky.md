@@ -1,3 +1,7 @@
+---
+parent: Mechatronika
+nav_order: 1
+---
 # Mechatronika
 - Skládá se z více částí
 - Základní: Mechanika, Elektronika, Informatika, Řízení 

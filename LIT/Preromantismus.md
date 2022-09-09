@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Preromantismus
 - označován též pojmem **sentimentalismus**
 - 2\. polovina 18. století = předchůdce romantismu

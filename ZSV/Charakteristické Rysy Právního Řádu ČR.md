@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Charakteristické Rysy Právního Řádu ČR
 
 - Uzavřený myšlenkový celek 

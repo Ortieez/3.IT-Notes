@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Božena Němcová
 *([[Český realismus v 50. století]])*
 

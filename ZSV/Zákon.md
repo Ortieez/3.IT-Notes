@@ -1,3 +1,7 @@
+---
+parent: Základy Společenských Věd
+nav_order: 1
+---
 # Zákon 
 - základní druh obecně závazného právního předpisu
 - platný pro státní orgány, právnické i fyzické osoby 

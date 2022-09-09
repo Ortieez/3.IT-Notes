@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # Další Světový Spisovatelé
 ## Jane Austenová (1775-1817)
  anglická spisovatelka, zakladatelka moderního rodinného románu v anglické literatuře

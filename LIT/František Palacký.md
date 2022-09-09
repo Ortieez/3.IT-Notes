@@ -1,3 +1,7 @@
+---
+parent: Literatura
+nav_order: 1
+---
 # František Palacký
 
 *(1798-1876)*

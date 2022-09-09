@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MECH/PLC Systémy.md",
+            "file": "ČJ/Didaktický Test 7.9..md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MECH/PLC Systémy.md",
+                "file": "ČJ/Didaktický Test 7.9..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MECH/PLC Systémy.md",
+                "file": "ČJ/Didaktický Test 7.9..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MECH/PLC Systémy.md"
+                "file": "ČJ/Didaktický Test 7.9..md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6c76f2de0d505819",
   "lastOpenFiles": [
-    "Photos/download.jpeg",
+    "SI/Úvod do Softwarového Inženýrství.md",
     "MECH/PLC Systémy.md",
+    "Photos/download.jpeg",
     "Photos/PXL_20220909_071639127.jpg",
     "MECH/Úvod do mechatroniky.md",
     "ČJ/Didaktický Test 7.9..md",
     "PRX/Úvod do Počítačovích sítí na Praxích.md",
     "PGR/Grafika a Formáty.md",
     "README.md",
-    "ČJ/Opakování z 1.-2. Ročníku.md",
-    "ČJ/Administrativní Styl.md"
+    "ČJ/Opakování z 1.-2. Ročníku.md"
   ]
 }

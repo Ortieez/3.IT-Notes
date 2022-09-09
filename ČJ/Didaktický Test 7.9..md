@@ -1,3 +1,7 @@
+---
+parent: ČJ
+---
+
 # Záznamový Arch 
 	pro Didaktický test (CJMZD16C0T01) 2019
 1) <s>A</s> D

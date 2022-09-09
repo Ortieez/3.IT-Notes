@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Tvarosloví (Morfologie)
 - rozličné podoby slova = tvary
 - tvarování slov = ohýbání

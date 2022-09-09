@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Tvarotvorný Základ
 - tvarotvorný základ když skloňujeme nebo časujeme tak se nemění
 

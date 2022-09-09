@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Slohový Postup
 
 - Informační - Předávání nějaké informace 

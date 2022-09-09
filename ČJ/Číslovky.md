@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Číslovky
 - latinsky: numeralia
 - ozančují přesně či obecně počet, pořadí, počet druhů, počet opakování děje a násobenost

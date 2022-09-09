@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Koncovka
 - koncovky nesou mluvnický význam tvarů
 - upozorňují na pád a číslo

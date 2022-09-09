@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ČJ/Český Jazyk.md",
+            "file": "ČJ/Číslovky.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ČJ/Český Jazyk.md",
+                "file": "ČJ/Číslovky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ČJ/Český Jazyk.md",
+                "file": "ČJ/Číslovky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ČJ/Český Jazyk.md"
+                "file": "ČJ/Číslovky.md"
               }
             }
           },
@@ -138,6 +138,14 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "1bad486ed4030ec9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -148,15 +156,15 @@
   },
   "active": "6c76f2de0d505819",
   "lastOpenFiles": [
-    "ČJ/Didaktický Test 7.9..md",
+    "ČJ/Částice.md",
+    "ČJ/Zájmena.md",
+    "ČJ/Větné vztahy.md",
+    "ČJ/Význam předpon a přípon.md",
+    "ČJ/Opakování z 1.-2. Ročníku.md",
+    "ČJ/Administrativní Styl.md",
     "ČJ/Český Jazyk.md",
-    "README.md",
-    "SI/Úvod do Softwarového Inženýrství.md",
-    "MECH/PLC Systémy.md",
-    "Photos/download.jpeg",
-    "Photos/PXL_20220909_071639127.jpg",
-    "MECH/Úvod do mechatroniky.md",
-    "PRX/Úvod do Počítačovích sítí na Praxích.md",
-    "PGR/Grafika a Formáty.md"
+    "ČJ/Typy Projevů.md",
+    "ČJ/Tvarotvorný Základ.md",
+    "ČJ/Tvarosloví (Morfologie).md"
   ]
 }

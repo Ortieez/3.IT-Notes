@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Přídavná Jména
 - blíže určuje jev označený podstatným jménem - popisuje jeho vlastnost nebo vyjadřuje jeho vztah k jiné skutečnost
 - **vyjádření:**

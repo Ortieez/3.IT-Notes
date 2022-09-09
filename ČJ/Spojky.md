@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Spojky
 - latinsky: konjunkce
 - spojuje větné členy či věty a vyjadřuje tak jejich skladební vztahy

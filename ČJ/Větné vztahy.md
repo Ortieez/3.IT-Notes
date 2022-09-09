@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Větné vztahy 
 - oddíl gramatiky: syntax *(skladba)*
 - zabývá se vztahy mezi jednotlivými slovy ve větě, mezi jednotlivými větnými členy

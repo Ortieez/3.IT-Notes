@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Příslovce
 - latinsky: adverbia
 - nejbližší ohebným slovním druhům

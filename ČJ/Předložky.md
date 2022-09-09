@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Předložky
 - latinsky: prepozice
 - vyjadřuje okolnost a získává význam ve spojení s tvarem jména (do lesa - místo x do rána -čas)

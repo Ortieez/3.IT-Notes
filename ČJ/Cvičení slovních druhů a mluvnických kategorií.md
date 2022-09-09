@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Cvičení slovních druhů a mluvnických kategorií
 
 - *pád, rod, číslo, životnost*

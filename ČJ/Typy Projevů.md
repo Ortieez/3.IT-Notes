@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Typy Projevů
 - Slohové útvary *oznamovací*:
 	- hlášení

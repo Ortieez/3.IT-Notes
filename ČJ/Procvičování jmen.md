@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Procvičování Jmen
 *pád, rod, číslo, životnost*
 - Fuj, právě mi na kamnech v hrnci explodoval pukavec.

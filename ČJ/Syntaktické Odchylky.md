@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Syntaktické Odchylky
 
 ## Odchylky od pravidelné větné stavby

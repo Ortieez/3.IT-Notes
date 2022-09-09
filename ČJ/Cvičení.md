@@ -1,4 +1,10 @@
-          Po      Př     PUm         PKs     PKn      Př     PT6.P   PKn                      
+---
+parent: Český Jazyk
+nav_order: 1
+---
+# Cvičení (2.IT)
+
+	Po      Př     PUm         PKs     PKn      Př     PT6.P   PKn                      
 1. Maminka seděla na lavičce pod rozkvetlou lípou a libovala si ve vůni květů
 (1.) Maminka - ženský, j., 1.pád, -
 (5.) Seděla - 3.os, č.j., čas minulý, zp. oznam.

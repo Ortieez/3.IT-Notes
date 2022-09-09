@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Zájmena
 - označuje za skutečnost namísto podstatného či přídavného jména nebo na ně poukazuje
 - sama o sobě nic neoznačují a nemají věcný význam

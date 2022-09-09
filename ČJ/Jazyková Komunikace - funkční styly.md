@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Jazyková Komunikace - funkční styly
 ## Typy projevů
 - Vědecký styl (teoreticky odborný) - projevy vědeckých knih a článků

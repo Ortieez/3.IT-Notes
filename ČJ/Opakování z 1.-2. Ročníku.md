@@ -1,3 +1,10 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
+
+# Opakování z 1.-2. Ročníku
+
 (2., *PKs*)Každé (1., *PUč*)ráno *(Přísudek)<u>(3.)se (5.)snažím (5.)vzbudit</u>* (6., *PUz*)včas, (8.)abych *<u>(5., Přísudek)nezaspal</u>,* (8.)i přesto (3., Přísudek)<u>se</u> (3., PT)mi (6., PUč)občas (5., Přísudek)<u>stane</u>, (8.)že (5., Přísudek)<u>zaspím</u>. *(Podmět Já, nevyjádřené)*
 
 

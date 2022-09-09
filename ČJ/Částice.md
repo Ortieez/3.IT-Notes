@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Částice
 - latinsky: partikule
 - formuje věty podle postoje mluvčího, hodnotí nebo člení text

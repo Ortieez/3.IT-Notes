@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Slohové postupy a útvary
 
 - [[Slohový postup]] - představuje zásady, jimiž se řídí tvorba sdělení po stráne tematické i jazykové

@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Mluvnické Kategorie Jmen
 ## Definice
 - mluvnický význam slova ve větě, vyjádřený obvykle připonou či koncovkou

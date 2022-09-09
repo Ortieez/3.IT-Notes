@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Slovní Druhy
 1) podstatná jména (substantiva)
 2) [[Přídavná Jména|přídavná jména]] (adjektiva)

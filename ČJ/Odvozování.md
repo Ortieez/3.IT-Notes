@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Odvozování
 
 - Nejačastější způsob vytváření nových slov

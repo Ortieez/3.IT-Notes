@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Slovesa
 - latisnký termín: verbum
 - pojmenovávají činnost (malovat), stav (sedět) či změnu stavu (vstát) = slovesa plnovýznamová

@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Cvičení slovních druhů a mluvnických kategorií 2
 
 - Babička(1) seděla(5) pod(7) vzrostlou(2) břízou(1) a(8) dívala se(5), co(3) dělá(5) děda(1) na(7) poli(1).

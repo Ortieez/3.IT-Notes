@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Citoslovce
 - latinsky: interjekce
 - vyjadřuje pocity či zvuky nebo slouží k navázání kontaktu

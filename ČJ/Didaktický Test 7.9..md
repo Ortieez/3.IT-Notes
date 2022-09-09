@@ -1,5 +1,5 @@
 ---
-parent: Cesky Jazyk
+parent: Český Jazyk
 nav_order: 1
 ---
 

@@ -20,7 +20,7 @@
 	- Soustava co dává zpětnou vazbu pro další "regulaci" (Kotel, Topení)
 
 # Regulační systém 
-![[PXL_20220909_063138855.jpg]]
+![](../Photos/PXL_20220909_063138855.jpg)
 - Regulační systém (regulační obvod) - je zvláštní druh složeného zpětnovazebního systému, který je tvořen řídícím a řízeným systémem
 - Řídící systém (regulátor) - zařízení, kterým se uskutečňuje řízení (regulace)
 - Řízený systém (regulovaná soustava) - zařízení (systém), na které působí regulátor
@@ -31,7 +31,7 @@
 - Poruchová veličina (d) - neúmyslná a nepředvídaná změna regulované veličiny.
 
 # Příklad pro výpočet matic (jak to budeme dělat)
-![[PXL_20220909_064557474.jpg]]
+![](../Photos/PXL_20220909_064557474.jpg)
 # Užití v průmyslu
 - automatizační technika
 - Inteligentni senzorika

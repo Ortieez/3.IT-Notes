@@ -7,4 +7,6 @@ nav_order: 1
 - Praktická část 
 	- Výroková logika
 	- ... algebra
-	- Komplexní operace (hradla, zpětný vazby, registr, multiplex)
+	- Komplexní operace (hradla, zpětný vazby, registr, multiplex)\
+
+![](../Photos/kybernetika_draw.png)

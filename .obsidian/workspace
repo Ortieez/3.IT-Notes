@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZSV/ratifikace.md",
+            "file": "KYB/Úvod.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZSV/ratifikace.md",
+                "file": "KYB/Úvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZSV/ratifikace.md",
+                "file": "KYB/Úvod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZSV/ratifikace.md"
+                "file": "KYB/Úvod.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "6c76f2de0d505819",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-09-12 11.17.07.excalidraw.md",
+    "MECH/Úvod do mechatroniky.md",
+    "KYB/Úvod.md",
+    "ZSV/ratifikace.md",
     "ZSV/Základy Společenských Věd.md",
     "ZSV/aplikace právního předpisu.md",
     "ZSV/Zákon.md",
     "ZSV/Vydávání právních předpisů v ČR.md",
     "ZSV/Vlastnické Právo.md",
-    "ZSV/Stát.md",
-    "ZSV/Spravedlnost.md",
-    "ZSV/Soudy.md",
-    "ZSV/Rodinné Právo.md",
-    "ZSV/Represivní orgány.md"
+    "ZSV/Stát.md"
   ]
 }

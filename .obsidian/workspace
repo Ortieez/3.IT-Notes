@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KYB/Úvod.md",
+            "file": "ČJ/Didaktický Test 7.9..md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KYB/Úvod.md",
+                "file": "ČJ/Didaktický Test 7.9..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KYB/Úvod.md",
+                "file": "ČJ/Didaktický Test 7.9..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KYB/Úvod.md"
+                "file": "ČJ/Didaktický Test 7.9..md"
               }
             }
           },
@@ -156,9 +156,9 @@
   },
   "active": "6c76f2de0d505819",
   "lastOpenFiles": [
+    "KYB/Úvod.md",
     "Excalidraw/Drawing 2022-09-12 11.17.07.excalidraw.md",
     "MECH/Úvod do mechatroniky.md",
-    "KYB/Úvod.md",
     "ZSV/ratifikace.md",
     "ZSV/Základy Společenských Věd.md",
     "ZSV/aplikace právního předpisu.md",

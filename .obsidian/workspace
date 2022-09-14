@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6c76f2de0d505819",
+        "id": "daaa2ec0c68df22c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ČJ/Didaktický Test 7.9..md",
+            "file": "PGR/Grafika a Formáty.md",
             "mode": "source",
             "source": false
           }
@@ -72,6 +72,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4f2dbc4d0357bcdd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "1f754ef83a218929",
             "type": "leaf",
             "state": {
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ČJ/Didaktický Test 7.9..md",
+                "file": "PGR/Grafika a Formáty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ČJ/Didaktický Test 7.9..md",
+                "file": "PGR/Grafika a Formáty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,18 +135,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ČJ/Didaktický Test 7.9..md"
+                "file": "PGR/Grafika a Formáty.md"
               }
-            }
-          },
-          {
-            "id": "4f2dbc4d0357bcdd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true
             }
           },
           {
@@ -147,24 +147,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "6c76f2de0d505819",
+  "active": "daaa2ec0c68df22c",
   "lastOpenFiles": [
+    "PGR/Počítačová Grafika.md",
+    "PRX/Úvod do Počítačovích sítí na Praxích.md",
+    "PGR/Grafika a Formáty.md",
+    "Pasted image 20220914130317 1.png",
+    "().md",
+    "PRX/Fyzická Vrstva (L1).md",
+    "ČJ/Didaktický Test 7.9..md",
     "KYB/Úvod.md",
     "Excalidraw/Drawing 2022-09-12 11.17.07.excalidraw.md",
-    "MECH/Úvod do mechatroniky.md",
-    "ZSV/ratifikace.md",
-    "ZSV/Základy Společenských Věd.md",
-    "ZSV/aplikace právního předpisu.md",
-    "ZSV/Zákon.md",
-    "ZSV/Vydávání právních předpisů v ČR.md",
-    "ZSV/Vlastnické Právo.md",
-    "ZSV/Stát.md"
+    "MECH/Úvod do mechatroniky.md"
   ]
 }

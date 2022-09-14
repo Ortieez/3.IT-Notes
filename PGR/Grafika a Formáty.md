@@ -36,14 +36,14 @@ nav_order: 1
 - Pracuje se třemi základními barvami: červenou, zelenou a modrou (RGB):
 	- smícháním všech barev vznikne barva bílá
 - Tento způsob používají například monitory a displeje
-![[../Photos/rgb.png]]
+![](../Photos/rgb.png)
 
 # Model CMYK
 - S každou přidanou barvou se ubírá část původního světla
 - Základní barvy jsou: azurová, purpurová a žlutá; smícháním všech těchto barev vznikne černá
 - Použití u tiskáren: např. různé druhy tiskových technik: ofset, digitální, tisk...
 - využívají odraz světla
-![[../Photos/cmyk.png]]
+![](../Photos/cmyk.png)
 
 # Barevný Prosto (GAMUT)
 - Gamut je dosažitelná oblast barev v určitém barevném prostoru

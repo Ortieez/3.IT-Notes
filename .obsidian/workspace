@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LIT/Jan Neruda.md",
+            "file": "LIT/70. a 80. léta 19. století.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Jan Neruda.md",
+                "file": "LIT/70. a 80. léta 19. století.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Jan Neruda.md",
+                "file": "LIT/70. a 80. léta 19. století.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Jan Neruda.md"
+                "file": "LIT/70. a 80. léta 19. století.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "daaa2ec0c68df22c",
   "lastOpenFiles": [
+    "LIT/Jan Neruda.md",
     "LIT/Jakub Arbes.md",
     "LIT/Český Realismus.md",
     "POS/Opakování.md",
@@ -163,7 +164,6 @@
     "POS/Počítačové Sítě.md",
     "PRX/Fyzická Vrstva (L1).md",
     "PRX/Praxe.md",
-    "PGR/Grafika a Formáty.md",
-    "PRX/Úvod do Počítačovích sítí na Praxích.md"
+    "PGR/Grafika a Formáty.md"
   ]
 }

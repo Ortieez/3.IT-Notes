@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "POS/Opakování.md",
+            "file": "LIT/Jan Neruda.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POS/Opakování.md",
+                "file": "LIT/Jan Neruda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POS/Opakování.md",
+                "file": "LIT/Jan Neruda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POS/Opakování.md"
+                "file": "LIT/Jan Neruda.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "daaa2ec0c68df22c",
   "lastOpenFiles": [
+    "LIT/Jakub Arbes.md",
+    "LIT/Český Realismus.md",
+    "POS/Opakování.md",
     "ČJ/Didaktický Test 7.9..md",
     "Excalidraw/Drawing 2022-09-15 08.44.27.excalidraw.md",
-    "POS/Opakování.md",
     "POS/Počítačové Sítě.md",
     "PRX/Fyzická Vrstva (L1).md",
     "PRX/Praxe.md",
     "PGR/Grafika a Formáty.md",
-    "PRX/Úvod do Počítačovích sítí na Praxích.md",
-    "PGR/Počítačová Grafika.md",
-    "Pasted image 20220914130317 1.png"
+    "PRX/Úvod do Počítačovích sítí na Praxích.md"
   ]
 }

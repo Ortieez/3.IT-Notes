@@ -36,11 +36,12 @@ nav_order: 1
 # Tekutinové Mechanismy
 - Energie přenášená kontrolním objemem ideální tekutiny, reálné tekutiny, tekutinou je buď kapalina, nebo plyn
 * Mechanismy mohou být postaveny tak, že využívají v ideálním případě: 
-	* Kinetickou energii (charakteristická je vysoká rychlost proudění a nízký tlak (vodní, parní, plynové turbiny, odstředivá čerpadla, ventilátory, turbodmychadla ...).
-	* Polohovou energii (zpravidla se transformuje na energii kinetickou, vodní nádrž - turbina-generátor)
-	* Tlakovou energii (Pascalův zákon), (charakteristická je nízká rychlost proudění a vysoký tlak)
+	* **Kinetickou energii** (charakteristická je vysoká rychlost proudění a nízký tlak (vodní, parní, plynové turbiny, odstředivá čerpadla, ventilátory, turbodmychadla ...).
+	* **Polohovou energii** (zpravidla se transformuje na energii kinetickou, vodní nádrž - turbina-generátor)
+	* **Tlakovou energii** (Pascalův zákon), (charakteristická je nízká rychlost proudění a vysoký tlak)
 
 # Vlastnosti HP Mechanismů
+
 | Parametr          | Hydraulika (velikost) | Pneumatika (velikost) |
 | ----------------- | --------------------- | --------------------- |
 | tlak [Pa]         | 1.10^6 až 45.10^6     | <1.10^6               |

@@ -48,7 +48,7 @@ nav_order: 1
 | síla [N]          | 10 až 10^6            | 0,1 až 1.10^2         |
 | moment [N.m]      | 1 až 10^6             | 0,1 až <1.10^2        |
 | výkon [kW]        | 0,1 až <10^3          | 0,01 až 10            |
-| rychlost [m.s^-1] | 0,01 až 0,5           | 0,1 až 5              | 
+| rychlost [m.s^-1] | 0,01 až 0,5           | 0,1 až 5              |
 
 # Princip
 - **VSTUPNÍ PŘEVODNÍK** (hydrogenerátor, kompresor) W<sub>1</sub> → W<sub>p</sub>

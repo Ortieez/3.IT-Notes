@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "POS/Opakování 2.md",
+            "file": "MECH/Prostředky automatizace.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POS/Opakování 2.md",
+                "file": "MECH/Prostředky automatizace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POS/Opakování 2.md",
+                "file": "MECH/Prostředky automatizace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POS/Opakování 2.md"
+                "file": "MECH/Prostředky automatizace.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "59d26556aca737c6",
   "lastOpenFiles": [
+    "MECH/PLC Systémy.md",
+    "MECH/Mechatronika.md",
+    "MECH/Prostředky automatizace.md",
+    "POS/Opakování 2.md",
     "Photos/PXL_20220916_064554367.jpg",
     "Photos/PXL_20220916_064554367 1.jpg",
-    "POS/Opakování 2.md",
     "POS/Opakování 1.md",
     "LIT/70. a 80. léta 19. století.md",
     "LIT/Jan Neruda.md",
-    "LIT/Jakub Arbes.md",
-    "LIT/Český Realismus.md",
-    "ČJ/Didaktický Test 7.9..md",
-    "Excalidraw/Drawing 2022-09-15 08.44.27.excalidraw.md"
+    "LIT/Jakub Arbes.md"
   ]
 }

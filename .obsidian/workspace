@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LIT/70. a 80. léta 19. století.md",
+            "file": "POS/Opakování 2.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/70. a 80. léta 19. století.md",
+                "file": "POS/Opakování 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/70. a 80. léta 19. století.md",
+                "file": "POS/Opakování 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/70. a 80. léta 19. století.md"
+                "file": "POS/Opakování 2.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "daaa2ec0c68df22c",
   "lastOpenFiles": [
+    "POS/Opakování 1.md",
+    "POS/Opakování 2.md",
+    "LIT/70. a 80. léta 19. století.md",
     "LIT/Jan Neruda.md",
     "LIT/Jakub Arbes.md",
     "LIT/Český Realismus.md",
-    "POS/Opakování.md",
     "ČJ/Didaktický Test 7.9..md",
     "Excalidraw/Drawing 2022-09-15 08.44.27.excalidraw.md",
     "POS/Počítačové Sítě.md",
-    "PRX/Fyzická Vrstva (L1).md",
-    "PRX/Praxe.md",
-    "PGR/Grafika a Formáty.md"
+    "PRX/Fyzická Vrstva (L1).md"
   ]
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "59d26556aca737c6",
+        "id": "38d25b6ef2755013",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MECH/Prostředky automatizace.md",
+            "file": "LIT/Lumírovci.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MECH/Prostředky automatizace.md",
+                "file": "LIT/Lumírovci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MECH/Prostředky automatizace.md",
+                "file": "LIT/Lumírovci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MECH/Prostředky automatizace.md"
+                "file": "LIT/Lumírovci.md"
               }
             }
           },
@@ -153,17 +153,17 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "59d26556aca737c6",
+  "active": "38d25b6ef2755013",
   "lastOpenFiles": [
-    "MECH/PLC Systémy.md",
-    "MECH/Mechatronika.md",
-    "MECH/Prostředky automatizace.md",
-    "POS/Opakování 2.md",
-    "Photos/PXL_20220916_064554367.jpg",
-    "Photos/PXL_20220916_064554367 1.jpg",
-    "POS/Opakování 1.md",
+    "LIT/Eliška Krásnohorská.md",
+    "LIT/Svatopluk Čech.md",
+    "LIT/Zikmund Winter.md",
+    "LIT/Alois Jirásek.md",
+    "LIT/Český Realismus.md",
+    "LIT/Slavjanofilie a Rusofilie.md",
     "LIT/70. a 80. léta 19. století.md",
     "LIT/Jan Neruda.md",
-    "LIT/Jakub Arbes.md"
+    "LIT/REalismus.md",
+    "LIT/asdiasn.md"
   ]
 }

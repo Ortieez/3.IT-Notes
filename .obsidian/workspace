@@ -7,9 +7,19 @@
         "id": "38d25b6ef2755013",
         "type": "leaf",
         "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2022-09-21 08.13.45.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "609f4ae3d797e753",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "ČJ/Opakování 20.9..md",
+            "file": "KYB/Booleova Algebra.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ČJ/Opakování 20.9..md",
+                "file": "KYB/Booleova Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ČJ/Opakování 20.9..md",
+                "file": "KYB/Booleova Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ČJ/Opakování 20.9..md"
+                "file": "KYB/Booleova Algebra.md"
               }
             }
           },
@@ -153,17 +163,17 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "38d25b6ef2755013",
+  "active": "609f4ae3d797e753",
   "lastOpenFiles": [
-    "ČJ/Didaktický Test 7.9..md",
+    "Excalidraw/Drawing 2022-09-21 08.13.45.excalidraw.md",
+    "KYB/Booleova Algebra.md",
+    "KYB/Úvod.md",
+    "KYB/Kybernetika.md",
     "ČJ/Opakování 20.9..md",
+    "ČJ/Didaktický Test 7.9..md",
     "LIT/Lumírovci.md",
     "LIT/Eliška Krásnohorská.md",
     "LIT/Svatopluk Čech.md",
-    "LIT/Zikmund Winter.md",
-    "LIT/Alois Jirásek.md",
-    "LIT/Český Realismus.md",
-    "LIT/Slavjanofilie a Rusofilie.md",
-    "LIT/70. a 80. léta 19. století.md"
+    "LIT/Zikmund Winter.md"
   ]
 }

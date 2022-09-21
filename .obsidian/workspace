@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "38d25b6ef2755013",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-09-21 08.13.45.excalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "609f4ae3d797e753",
+        "id": "69ce8dfb6f82a981",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KYB/Booleova Algebra.md",
+            "file": "ČJ/Větné členy základní a rozvíjející.md",
             "mode": "source",
             "source": false
           }
@@ -50,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "funkce slova ve větě",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KYB/Booleova Algebra.md",
+                "file": "ČJ/Větné členy základní a rozvíjející.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KYB/Booleova Algebra.md",
+                "file": "ČJ/Větné členy základní a rozvíjející.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KYB/Booleova Algebra.md"
+                "file": "ČJ/Větné členy základní a rozvíjející.md"
               }
             }
           },
@@ -163,17 +153,17 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "609f4ae3d797e753",
+  "active": "4f2dbc4d0357bcdd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-09-21 08.13.45.excalidraw.md",
     "KYB/Booleova Algebra.md",
+    "ČJ/Větné členy základní a rozvíjející.md",
+    "ČJ/Mluvnické Kategorie Jmen.md",
+    "ČJ/Větné vztahy.md",
+    "Excalidraw/Drawing 2022-09-21 08.13.45.excalidraw.md",
     "KYB/Úvod.md",
     "KYB/Kybernetika.md",
     "ČJ/Opakování 20.9..md",
     "ČJ/Didaktický Test 7.9..md",
-    "LIT/Lumírovci.md",
-    "LIT/Eliška Krásnohorská.md",
-    "LIT/Svatopluk Čech.md",
-    "LIT/Zikmund Winter.md"
+    "LIT/Lumírovci.md"
   ]
 }

@@ -15,6 +15,6 @@ nav_order: 1
 - Zákon involuce: 
 ![](../Photos/involuce.png)
 - Zákon doplňku: 
-![](doplnek.png)
+![](../Photos/doplnek.png)
 - Zákon idempotentní: 
-![](idempotentni.png)
+![](../Photos/idempotentni.png)

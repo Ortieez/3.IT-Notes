@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ČJ/Větné členy základní a rozvíjející.md",
+            "file": "MECH/Základy snímání.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "funkce slova ve větě",
+                "query": "kinetick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ČJ/Větné členy základní a rozvíjející.md",
+                "file": "MECH/Základy snímání.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ČJ/Větné členy základní a rozvíjející.md",
+                "file": "MECH/Základy snímání.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ČJ/Větné členy základní a rozvíjející.md"
+                "file": "MECH/Základy snímání.md"
               }
             }
           },
@@ -153,17 +153,17 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "4f2dbc4d0357bcdd",
+  "active": "69ce8dfb6f82a981",
   "lastOpenFiles": [
-    "KYB/Booleova Algebra.md",
+    "MECH/Prostředky automatizace.md",
+    "MECH/Základy snímání.md",
+    "MECH/Úvod do mechatroniky.md",
+    "MECH/PLC Systémy.md",
+    "MECH/Mechatronika.md",
     "ČJ/Větné členy základní a rozvíjející.md",
+    "KYB/Booleova Algebra.md",
     "ČJ/Mluvnické Kategorie Jmen.md",
     "ČJ/Větné vztahy.md",
-    "Excalidraw/Drawing 2022-09-21 08.13.45.excalidraw.md",
-    "KYB/Úvod.md",
-    "KYB/Kybernetika.md",
-    "ČJ/Opakování 20.9..md",
-    "ČJ/Didaktický Test 7.9..md",
-    "LIT/Lumírovci.md"
+    "Excalidraw/Drawing 2022-09-21 08.13.45.excalidraw.md"
   ]
 }

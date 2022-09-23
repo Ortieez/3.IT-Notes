@@ -39,6 +39,8 @@ nav_order: 1
 	* **Kinetickou energii** (charakteristická je vysoká rychlost proudění a nízký tlak (vodní, parní, plynové turbiny, odstředivá čerpadla, ventilátory, turbodmychadla ...).
 	* **Polohovou energii** (zpravidla se transformuje na energii kinetickou, vodní nádrž - turbina-generátor)
 	* **Tlakovou energii** (Pascalův zákon), (charakteristická je nízká rychlost proudění a vysoký tlak)
+	* - E<sub>k</sub> = 1/2mv<sup>2</sup>
+	- E<sub>p</sub> = mgh
 
 # Vlastnosti HP Mechanismů
 

@@ -116,5 +116,71 @@ nav_order: 1
 - Kontrola naplnění různých zásobníků
 - Zjišťování chybných etiket
 
+# Snímání neelektrických veličin
+- Snímač převádí měřenou neelektrickou veličinu (teplotu, tlak, průtok, kmitočet, mag. indukci atd.) na veličinu elektrickou (napětí, proud, indukčnost, odpor, el. náboj atd.)
+- Elektrická veličina je dále zpracována (např. digitalizována, přenášena na větší vzdálenosti, zpracována v regulátorem...)
+- Při každém měření dochází k odčerpání části energie z měřeného objektu, tj. objekt je vždy měřením rušen a teoreticky nelze dosáhnout měření bez chyby
 
-
+# Citlivost měřícího členu
+- Schopnost přístroje reagovat za stanovených pracovních podmínek na změnu hodnoty měřené veličiny
+- Stanovené pracovní podmínky jsou dané určitou hodnotou nebo tolerančním polem hodnot ovlivňujících veličin
+- Převrácenou hodnotou citlivosti je konstanta přístroje K=I/c (počet jednotek měřené veličiny na jeden dilek stupnice)
+## Přehled neelektrických veličin
+- Teplota
+- Mechanické veličiny
+- Mechanické napětí a deformace
+- Sila
+- Tlak
+- Průtok
+- Elektromagnetické záření
+- Vlhkost
+- lonizující záření
+- atd.
+# Měření teploty
+- Mezinárodní teplotní stupnice ITS-90
+* Obsahuje definici jednotky teploty (K. °C) a 17 teplotních bodů látek (trojný bod, tání, var,...)
+* Metody ověřování (cejchování) teploměrů
+- Termodynamická rovnice
+- p\*V=n\*R\*T
+- Teplota tání ledu To=273,15K=0°C
+- Trojný bod vody To=273,16K=0,01°C (p=611,7Pa)
+## Dilatační teploměry
+- Mechanický princip
+- Princip změny objemu látky v závislosti na teplotě 
+- Měření teploty se převádí na měření délky, objemu, nebo tlaku
+### Skleněné
+- Princip objemové roztažnosti teploměrové látky
+- Přírůstek se odečítá rovnou v kapiláře
+- Špatná čitelnost
+- Špatná přenositelnost
+- Nežádoucí z ekologického hlediska
+- Náplně:
+	- Pentan (-200°C -30°C)
+	- Rtut' (-38°C-350°C)
+	- Ethylalkohol (-110°C-70°C)
+### Tyčové
+- Využívají délkovou roztažnost dvou konstrukčně oddělených součástí (trubice - vnitřní tyč)
+- Velký teplotní rozsah
+- Nízké pořizovací náklady
+- Menší přesnost
+### Bimetalové
+- Princip deformace dvou spojených kovových pásků z různých materiálů Důsledkem různé teplotní roztažnosti dojde průhybu pásků
+- Nízké pořizovací náklady
+- Menší rozsah teplot
+- Menší přesnost
+- Pomalá odezva
+### Tlakové
+- Teplota vyvolá změnu objemu a ten změnu tlaku
+- Skládají se z teploměrové nádobky, spojovací kapiláry a měřicího přístroje (deformační tlakoměr)
+- Lineární stupnice
+- Stály přetlak
+# Elektrické teploměry
+- Odporové - využívají závislost el. odporu na teplotě
+- Termoelektrické - elektrický potenciál v místě spojení
+- Krystalové - vlastní rezonanční frekvence závislá na teplotě
+## Odporové
+- Kovové (PTC)-odporová čidla teploty - Polovodičové (NTC) - termistory
+- Základním materiálem teploměru je platina (vysoká teplota tání)
+• Pt100 -> R 1000
+- Další materiály
+	- Nikl-větší teplotní součinitel, levnější, citlivější, menší linearita závislosti

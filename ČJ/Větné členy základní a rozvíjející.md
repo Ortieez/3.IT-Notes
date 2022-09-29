@@ -1,3 +1,7 @@
+---
+parent: Český Jazyk
+nav_order: 1
+---
 # Větné členy základní a rozvíjející
 Větný člen - funkce slova ve větě, která plyne z jeho vztahu k ostatnim slovům ve větě
 

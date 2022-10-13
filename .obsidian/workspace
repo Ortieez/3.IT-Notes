@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7225f0fce2b930ad",
+        "id": "904c6a8f6fcf1a88",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LIT/Dětská Literatura.md",
+            "file": "LIT/Světová Poezie na počátku 20. století.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kinetick",
+                "query": "admini",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Dětská Literatura.md",
+                "file": "LIT/Světová Poezie na počátku 20. století.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Dětská Literatura.md",
+                "file": "LIT/Světová Poezie na počátku 20. století.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Dětská Literatura.md"
+                "file": "LIT/Světová Poezie na počátku 20. století.md"
               }
             }
           },
@@ -151,19 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 316.5
   },
-  "active": "7225f0fce2b930ad",
+  "active": "904c6a8f6fcf1a88",
   "lastOpenFiles": [
+    "LIT/avantgarda.md",
+    "LIT/Světová Poezie na počátku 20. století.md",
     "LIT/Tereza Nováková.md",
+    "LIT/Jindřich Šimon Baar.md",
     "LIT/Dětská Literatura.md",
+    "ČJ/Administrativní Styl.md",
+    "SI/Souborové Formáty.md",
     "LIT/Ladislav Stroupežnický.md",
     "LIT/Alois a Vilém Mrštíkové.md",
-    "LIT/Jindřich Šimon Baar.md",
-    "LIT/Karel Václav Rais.md",
-    "LIT/Josef Svátek.md",
-    "LIT/Lumírovci.md",
-    "LIT/Romantismus.md",
-    "LIT/Preromantismus.md"
+    "LIT/Karel Václav Rais.md"
   ]
 }

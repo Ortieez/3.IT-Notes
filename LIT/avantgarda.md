@@ -1,0 +1,1 @@
+- předvoj, nové postupy, pokrokové umění

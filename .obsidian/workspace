@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LIT/Světová Poezie na počátku 20. století.md",
+            "file": "SI/Softwarové Inženýrství.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Světová Poezie na počátku 20. století.md",
+                "file": "SI/Softwarové Inženýrství.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Světová Poezie na počátku 20. století.md",
+                "file": "SI/Softwarové Inženýrství.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Světová Poezie na počátku 20. století.md"
+                "file": "SI/Softwarové Inženýrství.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "904c6a8f6fcf1a88",
   "lastOpenFiles": [
-    "LIT/avantgarda.md",
+    "README.md",
     "LIT/Světová Poezie na počátku 20. století.md",
+    "LIT/avantgarda.md",
     "LIT/Tereza Nováková.md",
     "LIT/Jindřich Šimon Baar.md",
     "LIT/Dětská Literatura.md",
     "ČJ/Administrativní Styl.md",
     "SI/Souborové Formáty.md",
     "LIT/Ladislav Stroupežnický.md",
-    "LIT/Alois a Vilém Mrštíkové.md",
-    "LIT/Karel Václav Rais.md"
+    "LIT/Alois a Vilém Mrštíkové.md"
   ]
 }

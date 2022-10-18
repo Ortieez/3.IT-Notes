@@ -1,5 +1,11 @@
 {
   "fileSortOrder": "byModifiedTime",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "cs"
+  ]
 }

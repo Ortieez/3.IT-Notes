@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ČJ/Významové vztahy ve větě.md",
+                "file": "LIT/G.Apollinaire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2b448f92d335c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/Tristan Tzara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77a4a5b11b420d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/Manifesty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3845c317df58ad22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/Světová Poezie na počátku 20. století.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d84b7359f5114ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/André Breton.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -103,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ČJ/Významové vztahy ve větě.md",
+                "file": "LIT/André Breton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ČJ/Významové vztahy ve větě.md",
+                "file": "LIT/André Breton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ČJ/Významové vztahy ve větě.md"
+                "file": "LIT/André Breton.md"
               }
             }
           },
@@ -161,17 +210,17 @@
     "direction": "horizontal",
     "width": 287.5
   },
-  "active": "4151abd270754b6b",
+  "active": "7d84b7359f5114ff",
   "lastOpenFiles": [
+    "LIT/Tristan Tzara.md",
+    "LIT/André Breton.md",
+    "LIT/Manifesty.md",
+    "LIT/G.Apollinaire.md",
+    "LIT/Světová Poezie na počátku 20. století.md",
+    "ČJ/Významové vztahy ve větě.md",
     "Photos/Vztahy-Ve-Větě-Cvičení-part2.png",
     "Excalidraw/Vztahy Ve Větě Cvičení - part2.excalidraw.md",
-    "ČJ/Významové vztahy ve větě.md",
     "ČJ/Popis Umělecký.md",
-    "Excalidraw/Drawing 2022-11-08 09.30.17.excalidraw.md",
-    "LIT/70. a 80. léta 19. století.md",
-    "ČJ/Charakteristika Popisu.md",
-    "ČJ/Opakování.md",
-    "ČJ/Untitled Kanban.md",
-    "KYB/Booleova Algebra.md"
+    "Excalidraw/Drawing 2022-11-08 09.30.17.excalidraw.md"
   ]
 }

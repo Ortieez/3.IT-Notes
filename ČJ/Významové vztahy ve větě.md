@@ -2,7 +2,7 @@
 parent: Český Jazyk
 nav_order: 1
 ---
-
+# Významové vztahy ve větě
 ```
 Rozvodněná bystřina, říčka Loupnice, včera zaplavila opuštěnou náves i přilehlé ulice.
 
@@ -25,7 +25,7 @@ obraz - Jozefa Čapka (determinace)
 
 ```
 ![](../Photos/graf-vyznamove-vztahy.png)
-
+![](../Photos/Vztahy-Ve-Větě-Cvičení-part2.png)
 # Přisuzování (predikace)
 - vztah mezi podmětem a přísudkem
 - přísudek říká něco o podmětu

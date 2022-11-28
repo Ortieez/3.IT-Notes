@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b3443a6a4c6dc8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/Česká moderna a dekadence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Georg Trakl.md",
+                "file": "LIT/Česká moderna a dekadence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Georg Trakl.md",
+                "file": "LIT/Česká moderna a dekadence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Georg Trakl.md"
+                "file": "LIT/Česká moderna a dekadence.md"
               }
             }
           },
@@ -186,8 +198,10 @@
     "direction": "horizontal",
     "width": 287.5
   },
-  "active": "e37551196b0a9551",
+  "active": "3b3443a6a4c6dc8a",
   "lastOpenFiles": [
+    "LIT/Georg Trakl.md",
+    "LIT/Česká moderna a dekadence.md",
     "LIT/Sergej Alexandrovič Jesenin.md",
     "LIT/Christian Morgenstern.md",
     "LIT/André Breton.md",
@@ -195,8 +209,6 @@
     "ČJ/Významové vztahy ve větě.md",
     "ČJ/Formálně syntaktické vztahy ve větě.md",
     "Excalidraw/Vztahy Ve Větě Cvičení - part2.excalidraw.md",
-    "LIT/Světová Poezie na počátku 20. století.md",
-    "LIT/Manifesty.md",
-    "LIT/Tristan Tzara.md"
+    "LIT/Světová Poezie na počátku 20. století.md"
   ]
 }

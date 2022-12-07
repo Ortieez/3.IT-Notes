@@ -1,9 +1,9 @@
 [
   "table-editor-obsidian",
   "calendar",
-  "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "sliding-panes-obsidian",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "nldates-obsidian",
+  "make-md"
 ]

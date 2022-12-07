@@ -13,7 +13,10 @@
   "command-palette",
   "editor-status",
   "starred",
+  "random-note",
   "outline",
   "word-count",
+  "slides",
+  "audio-recorder",
   "file-recovery"
 ]

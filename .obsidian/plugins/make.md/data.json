@@ -1,0 +1,1480 @@
+{
+  "filePreviewOnHover": false,
+  "markSans": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "editorFlowStyle": "seamless",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "spacesStickers": true,
+  "spacesDisablePatch": false,
+  "sidebarRibbon": false,
+  "sidebarTabs": false,
+  "deleteFileOption": "trash",
+  "folderRank": {
+    "node": "",
+    "children": [
+      {
+        "node": "ČJ",
+        "children": [
+          {
+            "node": "Administrativní Styl.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Charakteristika Popisu.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Citoslovce.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Cvičení slovních druhů a mluvnických kategorií 2.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Cvičení.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Cvičení slovních druhů a mluvnických kategorií.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Didaktický Test 7.9..md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Formálně syntaktické vztahy ve větě.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Infinitiv (tzv. neurčitek).md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Jazyková Komunikace - funkční styly.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Koncovka.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Mluvnické Kategorie Jmen.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Mluvnický Význam.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Odborný styl.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Odvozování.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Opakování 20.9..md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Opakování na test.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Opakování z 1.-2. Ročníku.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Opakování.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Popis Umělecký.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Procvičování jmen.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Předložky.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Přídavná Jména.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Příslovce.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slohové postupy a útvary.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slohový postup.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slova Příbuzná.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slovesa.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slovní Druhy.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slovotvorba.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slovotvorný prostředek.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slovotvorný Základ.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Spojky.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Syntaktické Odchylky.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Tvarosloví (Morfologie).md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Tvarotvorný Základ.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Typy Projevů.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Východisko.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Výpověd.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Význam předpon a přípon.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Významové vztahy ve větě.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Větné vztahy.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Větné členy základní a rozvíjející.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Zájmena.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Český Jazyk.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Částice.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Číslovky.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "KYB",
+        "children": [
+          {
+            "node": "Booleova Algebra.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Kybernetika.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Úvod.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "LIT",
+        "children": [
+          {
+            "node": "70. a 80. léta 19. století.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Alois a Vilém Mrštíkové.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Alois Jirásek.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "André Breton.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Anglický romantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "avantgarda.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Babička.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Americký Romantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Bratři grimmové.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Christian Morgenstern.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Další Světový Spisovatelé.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Dílo Boženy Němcové.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Dílo Karla Havlíčka Borovského.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Dětská Literatura.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Francouzský romantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Eliška Krásnohorská.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "František Ladislav Čelakovský.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "G.Apollinaire.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Georg Trakl.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Jakub Arbes.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Jan Kollar.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Jan Neruda.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Jindřich Šimon Baar.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Josef Dobrovský.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Josef Svátek.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Karel Havlíček Borovský.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Karel Václav Rais.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Ladislav Stroupežnický.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Literatura.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Lumírovci.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Manifesty.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Novalis.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Národní Obrození.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Polský romantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Počátky Dějepisectví.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "František Palacký.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Počátky České Poezie.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Romantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Preromantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Rukopisy Zelenohorský a Královedvorský.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Ruský Romantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Sergej Alexandrovič Jesenin.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Slavjanofilie a Rusofilie.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Svatopluk Čech.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Světová Poezie na počátku 20. století.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Tereza Nováková.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Tristan Tzara.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Zikmund Winter.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Česká moderna a dekadence.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Český Realismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Český Romantismus.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Povídky Boženy Němcové.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Božena Němcová.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "MECH",
+        "children": [
+          {
+            "node": "Mechatronika.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PLC Systémy.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Základy snímání.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Prostředky automatizace.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Úvod do mechatroniky.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "PGR",
+        "children": [
+          {
+            "node": "Grafika a Formáty.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Počítačová Grafika.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PS - retuše 1",
+            "children": [
+              {
+                "node": "Done",
+                "children": [
+                  {
+                    "node": "kerka.jpg.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "Megan.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "model.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "observator.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "pelech.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "prasklina.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "mnich.jpg",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "kerka.jpg.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Megan.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "mnich.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "model.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "observator.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "pelech.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "prasklina.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "PS_retuše 1.docx",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "PS_cvičení masky - vektor",
+            "children": [
+              {
+                "node": "Bohemka.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "PS_masky vektor_cvičení 1.docx",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "svicen x2.jpg",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "PS_barevné úpravy 1",
+            "children": [
+              {
+                "node": "balkon.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "done",
+                "children": [
+                  {
+                    "node": "kluci.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "lopata.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "obelisk.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "obojek_red.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "pelech_red.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "balkon.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "pelech_violet.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "plet_01.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "trampolina.jpg",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "kluci.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "lopata.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Mostar.JPG",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "obelisk.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "obojek_red.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "pelech_red.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "pelech_violet.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "plet_01.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "PS_barevne upravy 1.docx",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "trampolina.jpg",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "PS_masky - bitmapa 2",
+            "children": [
+              {
+                "node": "done",
+                "children": [
+                  {
+                    "node": "džbán.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "mans-biceps.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "spinner.jpg",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "džbán.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "kérka.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "mans-biceps.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "PS_masky bitmapa 2.docx",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "spinner.jpg",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "PS_masky - vektor",
+            "children": [
+              {
+                "node": "done",
+                "children": [
+                  {
+                    "node": "lopata.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "punč hrnek.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "punč hrnek.psd",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "svicen 3.JPG",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "lopata.psd",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "svicen 3.psd",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "lopata.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "PS_masky vektor_cvičení 2.docx",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "svicen 3.JPG",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "punč hrnek.jpg",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "PS_retuše_úvod",
+            "children": [
+              {
+                "node": "Done",
+                "children": [
+                  {
+                    "node": "plet_01.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "holka.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "plet_02.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "retuse stavba_02.png",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "pristav.png",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "holka.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "plet_01.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "plet_02.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "pristav.jpg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "PS_Retuše 1.docx",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "retuse stavba_02.JPG",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          },
+          {
+            "node": "PS_retuše 4_stavba",
+            "children": [
+              {
+                "node": "Done",
+                "children": [
+                  {
+                    "node": "retuse stavba_01.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "retuse stavba_02.JPG",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "retuse stavba_03.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "retuse stavba_05.jpg",
+                    "children": [],
+                    "isFolder": false
+                  },
+                  {
+                    "node": "retuse stavba_04.jpg",
+                    "children": [],
+                    "isFolder": false
+                  }
+                ],
+                "isFolder": true
+              },
+              {
+                "node": "PS_Retuše_stavba.docx",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "retuse stavba_01.jpeg",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "retuse stavba_02.JPG",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "retuse stavba_03.JPG",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "retuse stavba_04.JPG",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "retuse stavba_05.JPG",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "POS",
+        "children": [
+          {
+            "node": "Opakování 1.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Opakování 2.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Počítačové Sítě.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "PRX",
+        "children": [
+          {
+            "node": "Praxe.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Fyzická Vrstva (L1).md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Úvod do Počítačovích sítí na Praxích.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "SI",
+        "children": [
+          {
+            "node": "Souborové Formáty.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Softwarové Inženýrství.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Úvod do Softwarového Inženýrství.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "ZSV",
+        "children": [
+          {
+            "node": "Advokacie.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "aplikace právního předpisu.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Charakteristické Rysy Právního Řádu ČR.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Notářství.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Obyvatelstvo.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Občanské právo, vlastnictví, dědictví.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Platnost, Účinnost a působnost.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Pracovní Právo.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Právní Norma.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Právní Ochrana v České Republice.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Právní Skutečnost.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Právní Vztahy.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Právní Síla.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Právní řád, právní ochrana občanů, právní vztahy.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Právo.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "ratifikace.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Represivní orgány.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Rodinné Právo.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Soudy.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Spravedlnost.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Stát.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Vlastnické Právo.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Vydávání právních předpisů v ČR.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Základy Společenských Věd.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Zákon.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Photos",
+        "children": [
+          {
+            "node": "cmyk.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "doplnek.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "download.jpeg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "graf-vyznamove-vztahy.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "idempotentni.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "involuce.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "kybernetika_draw.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "pos-opakovani.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220906_074714907.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220906_112326564.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220909_063138855.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220909_064557474.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220909_064646985 1.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220909_071639127.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220909_064646985.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220909_072217335.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220916_064554367.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220916_071534929.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220916_072916904.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "PXL_20220916_073124077.jpg",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "rgb.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Vztahy-Ve-Větě-Cvičení-part2.png",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "zakladni_logicke_operace.png",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Excalidraw",
+        "children": [
+          {
+            "node": "Drawing 2022-09-12 11.17.07.excalidraw.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Drawing 2022-09-15 08.44.27.excalidraw.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Drawing 2022-11-08 09.30.17.excalidraw.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Drawing 2022-09-21 08.13.45.excalidraw.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "procvičovaní-na-test.excalidraw.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Vztahy Ve Větě Cvičení - part2.excalidraw.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "_config.yml",
+        "children": [],
+        "isFolder": false
+      },
+      {
+        "node": "favicon.ico",
+        "children": [],
+        "isFolder": false
+      },
+      {
+        "node": "README.md",
+        "children": [],
+        "isFolder": false
+      }
+    ],
+    "isFolder": true
+  },
+  "openFolders": [],
+  "fileIcons": [
+    [
+      "KYB",
+      "2620-fe0f"
+    ],
+    [
+      "LIT",
+      "1f4d5"
+    ],
+    [
+      "PGR",
+      "1f58c-fe0f"
+    ],
+    [
+      "POS",
+      "1f578-fe0f"
+    ],
+    [
+      "MECH",
+      "1f916"
+    ],
+    [
+      "PRX",
+      "1f4a4"
+    ],
+    [
+      "SI",
+      "270d-fe0f"
+    ],
+    [
+      "ČJ",
+      "1f1e8-1f1ff"
+    ],
+    [
+      "ZSV",
+      "1f9e0"
+    ]
+  ],
+  "spaces": [],
+  "vaultCollapsed": false,
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":"
+}

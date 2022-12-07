@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +174,7 @@
     "direction": "horizontal",
     "width": 287.5
   },
-  "active": "002103ded88ea3f6",
+  "active": "9c95d079b5995c91",
   "lastOpenFiles": [
     "ČJ/Východisko.md",
     "ČJ/Výpověd.md",

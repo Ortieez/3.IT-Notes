@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "1a876b77-6f4a-48e1-9093-121fa9074984",
+      "name": "Untitled project",
+      "path": "",
+      "recursive": false,
+      "defaultName": "",
+      "templates": [],
+      "views": [
+        {
+          "id": "99e6097c-fe25-4d81-b23e-8169efe680af",
+          "name": "Table",
+          "type": "table",
+          "config": {}
+        }
+      ]
+    }
+  ]
+}

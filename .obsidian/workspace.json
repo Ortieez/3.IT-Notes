@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "e4869a18a95863a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,23 +127,18 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "605dcf5e90785849",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5aeb762769757f39",
+            "id": "53dee7dda790e50f",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b1b8d6c9ac8669d4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "git-view",
               "state": {}
             }
           },
@@ -147,31 +151,41 @@
             }
           },
           {
-            "id": "53dee7dda790e50f",
+            "id": "b1b8d6c9ac8669d4",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "5aeb762769757f39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 260.5
   },
-  "active": "53dee7dda790e50f",
+  "active": "e4869a18a95863a4",
   "lastOpenFiles": [
+    "Untitled note.md",
+    "test/Untitled.md",
+    "ČJ/Administrativní Styl.md",
+    "2022-12-07.md",
     "PGR/PS_cvičení masky - vektor/Bohemka.jpg",
     "LIT/70. a 80. léta 19. století.md",
     "MECH/Mechatronika.md",
     "Untitled.md",
     "KYB/Booleova Algebra.md",
-    "Photos/doplnek.png",
-    "Recording 20221207164023.webm",
-    "KYB/Kybernetika.md",
-    "ČJ/Výpověd.md",
-    "ČJ/Východisko.md"
+    "Photos/doplnek.png"
   ]
 }

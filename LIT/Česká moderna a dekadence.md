@@ -30,3 +30,12 @@ nav_order: 1
 - básnický styl je úsečný bez příkras
 - do jeho dála se nepromítly moderní umělecké směry - symb., impres.
 - ztělesnění ideálu výjimečných osobností, hledáá v minulosti (hl. v antice)
+## Díla
+- Confiteor I. - III.
+	- 3. dílná sbírka
+- Čtyři knihy sonetů
+	- sbírka
+- Tristium Vindobona 
+	- skeptická sbírka, politická lyrika
+- Zde by měly kvést růže
+	- veršované epické příběhy, kritizuje postavení ženy; ukazuje na rozdíly životů žen v různých vrstvách společnosti; kritika měšťanské společnosti

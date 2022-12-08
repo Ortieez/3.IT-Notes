@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ffa2fdbf2cdf056",
+        "id": "912089bc73452e26",
         "type": "tabs",
         "children": [
           {
-            "id": "472ae0934744cdf4",
+            "id": "88d16da0a2409720",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e4869a18a95863a4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LIT/Česká moderna a dekadence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LIT/Česká moderna a dekadence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LIT/Česká moderna a dekadence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LIT/Česká moderna a dekadence.md"
+              }
             }
           },
           {
@@ -175,17 +174,17 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "e4869a18a95863a4",
+  "active": "9cce8da7fb0d5fd8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-09-12 11.17.07.excalidraw.md",
+    "ČJ/Administrativní Styl.md",
     "Untitled note.md",
     "test/Untitled.md",
-    "ČJ/Administrativní Styl.md",
     "2022-12-07.md",
     "PGR/PS_cvičení masky - vektor/Bohemka.jpg",
     "LIT/70. a 80. léta 19. století.md",
     "MECH/Mechatronika.md",
     "Untitled.md",
-    "KYB/Booleova Algebra.md",
-    "Photos/doplnek.png"
+    "KYB/Booleova Algebra.md"
   ]
 }

@@ -2,6 +2,7 @@
 parent: Matematika
 nav_order: 1
 ---
+# Opakování na didaktický test
 https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
 6)
 $$

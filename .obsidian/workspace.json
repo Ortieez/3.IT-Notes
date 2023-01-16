@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "be6d2d2ebce011d5",
+        "id": "0da34d4b6aed6616",
         "type": "tabs",
         "children": [
           {
-            "id": "018ae14705f7ab1e",
+            "id": "c1549ec0b9288c23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/Česká moderna a dekadence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938ab16d3ca66aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/Antonín Sova.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Antonín Sova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Antonín Sova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LIT/Antonín Sova.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,17 +154,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "938ab16d3ca66aa9",
+  "active": "f6d18829ad7065d4",
   "lastOpenFiles": [
-    "LIT/Česká moderna a dekadence.md",
+    "MECH/Elektrický Proud.md",
+    "MECH/Střídavý Proud.md",
+    "MECH/Smíšený Proud.md",
+    "MECH/Elektrický Odpor.md",
+    "M/Test.md",
     "LIT/Antonín Sova.md",
-    "ČJ/Odchylky od větné stavby.md",
-    "ČJ/Administrativní Styl.md",
-    "ČJ/Opakování Věty - Výpověd apod...md",
-    "ČJ/Untitled 1.md",
-    "Excalidraw/Drawing 2022-09-12 11.17.07.excalidraw.md",
-    "Untitled note.md",
-    "test/Untitled.md",
-    "2022-12-07.md"
+    "MECH/Stejnosměrný Proud.md",
+    "MECH/Elektrický Obvod.md",
+    "MECH/Elektrický náboj.md",
+    "MECH/Ohmův Zákon.md"
   ]
 }

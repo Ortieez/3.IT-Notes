@@ -1,3 +1,7 @@
+---
+parent: Matematika
+nav_order: 1
+---
 https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
 6)
 $$

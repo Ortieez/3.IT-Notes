@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M/Opakování na didaktický test.md",
+                "file": "LIT/Antonín Sova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be8f718a3933c9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/František Xaver Šalda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M/Opakování na didaktický test.md",
+                "file": "LIT/František Xaver Šalda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M/Opakování na didaktický test.md",
+                "file": "LIT/František Xaver Šalda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M/Opakování na didaktický test.md"
+                "file": "LIT/František Xaver Šalda.md"
               }
             }
           },
@@ -175,11 +187,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "32766a6e7c1d5c02",
+  "active": "be8f718a3933c9a0",
   "lastOpenFiles": [
-    "M/Matematika.md",
-    "M/Opakování na didaktický test.md",
     "LIT/Antonín Sova.md",
+    "M/Opakování na didaktický test.md",
+    "M/Matematika.md",
     "MECH/Mechatronika.md",
     "MECH/Elektrický Proud.md",
     "MECH/Střídavý Proud.md",

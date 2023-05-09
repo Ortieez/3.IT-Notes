@@ -3,6 +3,19 @@ parent: Český Jazyk
 nav_order: 1
 ---
 # Odborný styl
+- funkce: předat adresátovi nějakou odbornou informaci, poučit ho, vzdělat ho
+- auto musí mít odborné znalosti v příslušném oboru
+- odborná informace charakteristická nadčasovostí, obecnou platností a situační nezakotveností
+- odborné texty typické přesností, propracovaností, komplikovanou větnou stavbou a odbornými názvy
+
+## Typy textů odborného stylu
+- [[Vědecký styl|vědecký styl]]
+- [[Populárně naučný styl|populárně naučný styl]]
+- učební styl
+- esejistický styl
+- jednací styl
+- prakticky odbporný styl
+
 
 ### Jazykové prostředky
 - Odborné projevy jsou převážně psané

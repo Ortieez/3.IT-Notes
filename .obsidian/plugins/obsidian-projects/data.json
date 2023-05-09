@@ -1,21 +1,42 @@
 {
+  "version": 2,
   "projects": [
     {
-      "id": "1a876b77-6f4a-48e1-9093-121fa9074984",
-      "name": "Untitled project",
-      "path": "",
-      "recursive": false,
+      "fieldConfig": {},
       "defaultName": "",
       "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
       "views": [
         {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
           "id": "99e6097c-fe25-4d81-b23e-8169efe680af",
           "name": "Table",
-          "type": "table",
-          "config": {}
+          "type": "table"
         }
-      ]
+      ],
+      "name": "Untitled project",
+      "id": "1a876b77-6f4a-48e1-9093-121fa9074984"
     }
   ],
-  "version": 1
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    }
+  }
 }

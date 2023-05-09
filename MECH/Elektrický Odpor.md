@@ -7,9 +7,6 @@ nav_order: 1
 - Když protéká elektrický proud vodičem, pohybují se volné elektrony mezi atomy vodiče
 - Atomy vodiče kmitají kolem svých klidových poloh (neuspořádaný tepelný pohyb) a omezují pohyb volných elektronů -> vzniká elektrický odpor
 
---- DOPSAT ZBYTEK
-
-
 # Rezistor (odpor)
 - Pasivní elektrotechnická součástka projevující se v elektrickém obvodu v ideálním případě jedinou vlastností - elektrickým odporem *R*
 - Důvodem pro zařazení rezistoru do obvodu je obvykle snížení velikosti [[Elektrický Proud|elektrického proudu]] nebo získání určitého úbytku napětí

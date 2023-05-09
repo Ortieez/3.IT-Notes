@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0da34d4b6aed6616",
+        "id": "831ed3388aab3e14",
         "type": "tabs",
         "children": [
           {
-            "id": "c1549ec0b9288c23",
+            "id": "8f1d1b50f62d510b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M/Opakování na didaktický test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32766a6e7c1d5c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/Antonín Sova.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be8f718a3933c9a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/František Xaver Šalda.md",
+                "file": "LIT/Česká meziválečná literatura.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,10 +66,18 @@
             }
           },
           {
-            "id": "c1dbbd4ffb80eeec",
+            "id": "f558e0b5eec95a6e",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "689005223af4613f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -118,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/František Xaver Šalda.md",
+                "file": "LIT/Česká meziválečná literatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +118,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/František Xaver Šalda.md",
+                "file": "LIT/Česká meziválečná literatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "8fd61b055f27811c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -153,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/František Xaver Šalda.md"
+                "file": "LIT/Česká meziválečná literatura.md"
               }
             }
           },
@@ -184,20 +175,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be8f718a3933c9a0",
+  "active": "8f1d1b50f62d510b",
   "lastOpenFiles": [
-    "LIT/Antonín Sova.md",
-    "M/Opakování na didaktický test.md",
-    "M/Matematika.md",
-    "MECH/Mechatronika.md",
-    "MECH/Elektrický Proud.md",
-    "MECH/Střídavý Proud.md",
-    "MECH/Smíšený Proud.md",
-    "MECH/Elektrický Odpor.md",
-    "MECH/Stejnosměrný Proud.md",
-    "MECH/Elektrický Obvod.md"
+    "ČJ/Úkol.md",
+    "LIT/Česká meziválečná literatura.md",
+    "ČJ/Jazykové vyjádření příčinnostních vztahů.md",
+    "ČJ/Postup (metodologie).md",
+    "ČJ/Úvaha.md",
+    "ČJ/Odborný styl.md",
+    "LIT/Jiří Karásek ze Lvovic.md",
+    "Generace Buřičů.md",
+    "PRG/Test.md",
+    "Populárně naučný styl.md",
+    "ČJ/Vědecký styl.md",
+    "ČJ/Vánoční Večírek - sloh.md",
+    "ČJ/Odchylky od větné stavby.md",
+    "ČJ/Odborný st.md",
+    "MECH/Typy Zapojení.md"
   ]
 }
